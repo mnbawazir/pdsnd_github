@@ -4,12 +4,12 @@ The Project was created on 16-Oct-2019
 Project Title
 Bikeshare Python Project
 
-### Description
-Describe what your project is about and what it does
+Description
+The project provides an interactive interface for user to filter through bikeshare data in three major cities: Chicago, New York City, and Washington
 
-### Files used
-Include the files used
+Files used
+chicago.csv new-york-city.csv washington.csv
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credits
+Speical Thanks for our Session Leader and the Community of Stack Overflow who offered solutions to many of coding challenges. 
 
