@@ -13,3 +13,8 @@ chicago.csv new-york-city.csv washington.csv
 ### Credits
 Speical Thanks for our Session Leader and the Community of Stack Overflow who offered solutions to many of coding challenges. 
 
+### Resources
+https://pandas.pydata.org/pandas-docs/stable/index.html
+
+
+
